@@ -1,0 +1,410 @@
+[
+ {
+  "id": 1,
+  "name": "Toyota Vios",
+  "brand": "Toyota",
+  "type": "Sedan",
+  "seats": 5,
+  "transmission": "AT",
+  "fuel": "petrol",
+  "pricePerDay": 700000,
+  "city": "TP.HCM",
+  "rating": 4.7,
+  "color": "#047857",
+  "desc": {
+   "vi": "Toyota Vios là mẫu xe sedan 5 chỗ của Toyota, phù hợp cho các chuyến đi tại TP.HCM và đi tỉnh cùng gia đình, bạn bè.",
+   "en": "The Toyota Vios is a 5-seat Sedan from Toyota, a great choice for city trips around TP.HCM and weekend getaways."
+  }
+ },
+ {
+  "id": 2,
+  "name": "Toyota Camry",
+  "brand": "Toyota",
+  "type": "Sedan",
+  "seats": 5,
+  "transmission": "AT",
+  "fuel": "petrol",
+  "pricePerDay": 1300000,
+  "city": "Hà Nội",
+  "rating": 4.8,
+  "color": "#0f766e",
+  "desc": {
+   "vi": "Toyota Camry là mẫu xe sedan 5 chỗ của Toyota, phù hợp cho các chuyến đi tại Hà Nội và đi tỉnh cùng gia đình, bạn bè.",
+   "en": "The Toyota Camry is a 5-seat Sedan from Toyota, a great choice for city trips around Hà Nội and weekend getaways."
+  }
+ },
+ {
+  "id": 3,
+  "name": "Toyota Fortuner",
+  "brand": "Toyota",
+  "type": "SUV",
+  "seats": 7,
+  "transmission": "AT",
+  "fuel": "diesel",
+  "pricePerDay": 1500000,
+  "city": "Đà Nẵng",
+  "rating": 4.7,
+  "color": "#065f46",
+  "desc": {
+   "vi": "Toyota Fortuner là mẫu xe SUV 7 chỗ của Toyota, phù hợp cho các chuyến đi tại Đà Nẵng và đi tỉnh cùng gia đình, bạn bè.",
+   "en": "The Toyota Fortuner is a 7-seat SUV from Toyota, a great choice for city trips around Đà Nẵng and weekend getaways."
+  }
+ },
+ {
+  "id": 4,
+  "name": "Toyota Innova",
+  "brand": "Toyota",
+  "type": "MPV",
+  "seats": 7,
+  "transmission": "MT",
+  "fuel": "petrol",
+  "pricePerDay": 900000,
+  "city": "TP.HCM",
+  "rating": 4.5,
+  "color": "#166534",
+  "desc": {
+   "vi": "Toyota Innova là mẫu xe MPV 7 chỗ của Toyota, phù hợp cho các chuyến đi tại TP.HCM và đi tỉnh cùng gia đình, bạn bè.",
+   "en": "The Toyota Innova is a 7-seat MPV from Toyota, a great choice for city trips around TP.HCM and weekend getaways."
+  }
+ },
+ {
+  "id": 5,
+  "name": "Honda City",
+  "brand": "Honda",
+  "type": "Sedan",
+  "seats": 5,
+  "transmission": "AT",
+  "fuel": "petrol",
+  "pricePerDay": 750000,
+  "city": "Cần Thơ",
+  "rating": 4.6,
+  "color": "#115e59",
+  "desc": {
+   "vi": "Honda City là mẫu xe sedan 5 chỗ của Honda, phù hợp cho các chuyến đi tại Cần Thơ và đi tỉnh cùng gia đình, bạn bè.",
+   "en": "The Honda City is a 5-seat Sedan from Honda, a great choice for city trips around Cần Thơ and weekend getaways."
+  }
+ },
+ {
+  "id": 6,
+  "name": "Honda CR-V",
+  "brand": "Honda",
+  "type": "SUV",
+  "seats": 5,
+  "transmission": "AT",
+  "fuel": "petrol",
+  "pricePerDay": 1250000,
+  "city": "Hà Nội",
+  "rating": 4.7,
+  "color": "#059669",
+  "desc": {
+   "vi": "Honda CR-V là mẫu xe SUV 5 chỗ của Honda, phù hợp cho các chuyến đi tại Hà Nội và đi tỉnh cùng gia đình, bạn bè.",
+   "en": "The Honda CR-V is a 5-seat SUV from Honda, a great choice for city trips around Hà Nội and weekend getaways."
+  }
+ },
+ {
+  "id": 7,
+  "name": "Honda Civic",
+  "brand": "Honda",
+  "type": "Sedan",
+  "seats": 5,
+  "transmission": "AT",
+  "fuel": "petrol",
+  "pricePerDay": 1100000,
+  "city": "TP.HCM",
+  "rating": 4.6,
+  "color": "#047857",
+  "desc": {
+   "vi": "Honda Civic là mẫu xe sedan 5 chỗ của Honda, phù hợp cho các chuyến đi tại TP.HCM và đi tỉnh cùng gia đình, bạn bè.",
+   "en": "The Honda Civic is a 5-seat Sedan from Honda, a great choice for city trips around TP.HCM and weekend getaways."
+  }
+ },
+ {
+  "id": 8,
+  "name": "Hyundai Accent",
+  "brand": "Hyundai",
+  "type": "Sedan",
+  "seats": 5,
+  "transmission": "AT",
+  "fuel": "petrol",
+  "pricePerDay": 680000,
+  "city": "Đà Nẵng",
+  "rating": 4.5,
+  "color": "#0f766e",
+  "desc": {
+   "vi": "Hyundai Accent là mẫu xe sedan 5 chỗ của Hyundai, phù hợp cho các chuyến đi tại Đà Nẵng và đi tỉnh cùng gia đình, bạn bè.",
+   "en": "The Hyundai Accent is a 5-seat Sedan from Hyundai, a great choice for city trips around Đà Nẵng and weekend getaways."
+  }
+ },
+ {
+  "id": 9,
+  "name": "Hyundai Santa Fe",
+  "brand": "Hyundai",
+  "type": "SUV",
+  "seats": 7,
+  "transmission": "AT",
+  "fuel": "diesel",
+  "pricePerDay": 1450000,
+  "city": "Hà Nội",
+  "rating": 4.8,
+  "color": "#065f46",
+  "desc": {
+   "vi": "Hyundai Santa Fe là mẫu xe SUV 7 chỗ của Hyundai, phù hợp cho các chuyến đi tại Hà Nội và đi tỉnh cùng gia đình, bạn bè.",
+   "en": "The Hyundai Santa Fe is a 7-seat SUV from Hyundai, a great choice for city trips around Hà Nội and weekend getaways."
+  }
+ },
+ {
+  "id": 10,
+  "name": "Hyundai i10",
+  "brand": "Hyundai",
+  "type": "Hatchback",
+  "seats": 5,
+  "transmission": "MT",
+  "fuel": "petrol",
+  "pricePerDay": 450000,
+  "city": "Tây Ninh",
+  "rating": 4.3,
+  "color": "#166534",
+  "desc": {
+   "vi": "Hyundai i10 là mẫu xe hatchback 5 chỗ của Hyundai, phù hợp cho các chuyến đi tại Tây Ninh và đi tỉnh cùng gia đình, bạn bè.",
+   "en": "The Hyundai i10 is a 5-seat Hatchback from Hyundai, a great choice for city trips around Tây Ninh and weekend getaways."
+  }
+ },
+ {
+  "id": 11,
+  "name": "Kia Morning",
+  "brand": "Kia",
+  "type": "Hatchback",
+  "seats": 5,
+  "transmission": "AT",
+  "fuel": "petrol",
+  "pricePerDay": 480000,
+  "city": "TP.HCM",
+  "rating": 4.4,
+  "color": "#115e59",
+  "desc": {
+   "vi": "Kia Morning là mẫu xe hatchback 5 chỗ của Kia, phù hợp cho các chuyến đi tại TP.HCM và đi tỉnh cùng gia đình, bạn bè.",
+   "en": "The Kia Morning is a 5-seat Hatchback from Kia, a great choice for city trips around TP.HCM and weekend getaways."
+  }
+ },
+ {
+  "id": 12,
+  "name": "Kia Seltos",
+  "brand": "Kia",
+  "type": "SUV",
+  "seats": 5,
+  "transmission": "AT",
+  "fuel": "petrol",
+  "pricePerDay": 950000,
+  "city": "Cần Thơ",
+  "rating": 4.6,
+  "color": "#059669",
+  "desc": {
+   "vi": "Kia Seltos là mẫu xe SUV 5 chỗ của Kia, phù hợp cho các chuyến đi tại Cần Thơ và đi tỉnh cùng gia đình, bạn bè.",
+   "en": "The Kia Seltos is a 5-seat SUV from Kia, a great choice for city trips around Cần Thơ and weekend getaways."
+  }
+ },
+ {
+  "id": 13,
+  "name": "Kia Carnival",
+  "brand": "Kia",
+  "type": "MPV",
+  "seats": 7,
+  "transmission": "AT",
+  "fuel": "diesel",
+  "pricePerDay": 1800000,
+  "city": "TP.HCM",
+  "rating": 4.9,
+  "color": "#047857",
+  "desc": {
+   "vi": "Kia Carnival là mẫu xe MPV 7 chỗ của Kia, phù hợp cho các chuyến đi tại TP.HCM và đi tỉnh cùng gia đình, bạn bè.",
+   "en": "The Kia Carnival is a 7-seat MPV from Kia, a great choice for city trips around TP.HCM and weekend getaways."
+  }
+ },
+ {
+  "id": 14,
+  "name": "Mazda 3",
+  "brand": "Mazda",
+  "type": "Sedan",
+  "seats": 5,
+  "transmission": "AT",
+  "fuel": "petrol",
+  "pricePerDay": 900000,
+  "city": "Hà Nội",
+  "rating": 4.7,
+  "color": "#0f766e",
+  "desc": {
+   "vi": "Mazda 3 là mẫu xe sedan 5 chỗ của Mazda, phù hợp cho các chuyến đi tại Hà Nội và đi tỉnh cùng gia đình, bạn bè.",
+   "en": "The Mazda 3 is a 5-seat Sedan from Mazda, a great choice for city trips around Hà Nội and weekend getaways."
+  }
+ },
+ {
+  "id": 15,
+  "name": "Mazda CX-5",
+  "brand": "Mazda",
+  "type": "SUV",
+  "seats": 5,
+  "transmission": "AT",
+  "fuel": "petrol",
+  "pricePerDay": 1150000,
+  "city": "Đà Nẵng",
+  "rating": 4.8,
+  "color": "#065f46",
+  "desc": {
+   "vi": "Mazda CX-5 là mẫu xe SUV 5 chỗ của Mazda, phù hợp cho các chuyến đi tại Đà Nẵng và đi tỉnh cùng gia đình, bạn bè.",
+   "en": "The Mazda CX-5 is a 5-seat SUV from Mazda, a great choice for city trips around Đà Nẵng and weekend getaways."
+  }
+ },
+ {
+  "id": 16,
+  "name": "Ford Ranger",
+  "brand": "Ford",
+  "type": "Pickup",
+  "seats": 5,
+  "transmission": "AT",
+  "fuel": "diesel",
+  "pricePerDay": 1200000,
+  "city": "Tây Ninh",
+  "rating": 4.5,
+  "color": "#166534",
+  "desc": {
+   "vi": "Ford Ranger là mẫu xe bán tải 5 chỗ của Ford, phù hợp cho các chuyến đi tại Tây Ninh và đi tỉnh cùng gia đình, bạn bè.",
+   "en": "The Ford Ranger is a 5-seat Pickup from Ford, a great choice for city trips around Tây Ninh and weekend getaways."
+  }
+ },
+ {
+  "id": 17,
+  "name": "Ford Everest",
+  "brand": "Ford",
+  "type": "SUV",
+  "seats": 7,
+  "transmission": "AT",
+  "fuel": "diesel",
+  "pricePerDay": 1600000,
+  "city": "TP.HCM",
+  "rating": 4.7,
+  "color": "#115e59",
+  "desc": {
+   "vi": "Ford Everest là mẫu xe SUV 7 chỗ của Ford, phù hợp cho các chuyến đi tại TP.HCM và đi tỉnh cùng gia đình, bạn bè.",
+   "en": "The Ford Everest is a 7-seat SUV from Ford, a great choice for city trips around TP.HCM and weekend getaways."
+  }
+ },
+ {
+  "id": 18,
+  "name": "Mitsubishi Xpander",
+  "brand": "Mitsubishi",
+  "type": "MPV",
+  "seats": 7,
+  "transmission": "AT",
+  "fuel": "petrol",
+  "pricePerDay": 850000,
+  "city": "Cần Thơ",
+  "rating": 4.6,
+  "color": "#059669",
+  "desc": {
+   "vi": "Mitsubishi Xpander là mẫu xe MPV 7 chỗ của Mitsubishi, phù hợp cho các chuyến đi tại Cần Thơ và đi tỉnh cùng gia đình, bạn bè.",
+   "en": "The Mitsubishi Xpander is a 7-seat MPV from Mitsubishi, a great choice for city trips around Cần Thơ and weekend getaways."
+  }
+ },
+ {
+  "id": 19,
+  "name": "Suzuki Ertiga",
+  "brand": "Suzuki",
+  "type": "MPV",
+  "seats": 7,
+  "transmission": "MT",
+  "fuel": "petrol",
+  "pricePerDay": 700000,
+  "city": "Tây Ninh",
+  "rating": 4.4,
+  "color": "#047857",
+  "desc": {
+   "vi": "Suzuki Ertiga là mẫu xe MPV 7 chỗ của Suzuki, phù hợp cho các chuyến đi tại Tây Ninh và đi tỉnh cùng gia đình, bạn bè.",
+   "en": "The Suzuki Ertiga is a 7-seat MPV from Suzuki, a great choice for city trips around Tây Ninh and weekend getaways."
+  }
+ },
+ {
+  "id": 20,
+  "name": "VinFast VF 5",
+  "brand": "VinFast",
+  "type": "SUV",
+  "seats": 5,
+  "transmission": "AT",
+  "fuel": "electric",
+  "pricePerDay": 800000,
+  "city": "Hà Nội",
+  "rating": 4.5,
+  "color": "#0f766e",
+  "desc": {
+   "vi": "VinFast VF 5 là mẫu xe SUV 5 chỗ của VinFast, phù hợp cho các chuyến đi tại Hà Nội và đi tỉnh cùng gia đình, bạn bè.",
+   "en": "The VinFast VF 5 is a 5-seat SUV from VinFast, a great choice for city trips around Hà Nội and weekend getaways."
+  }
+ },
+ {
+  "id": 21,
+  "name": "VinFast VF 8",
+  "brand": "VinFast",
+  "type": "SUV",
+  "seats": 5,
+  "transmission": "AT",
+  "fuel": "electric",
+  "pricePerDay": 1400000,
+  "city": "TP.HCM",
+  "rating": 4.7,
+  "color": "#065f46",
+  "desc": {
+   "vi": "VinFast VF 8 là mẫu xe SUV 5 chỗ của VinFast, phù hợp cho các chuyến đi tại TP.HCM và đi tỉnh cùng gia đình, bạn bè.",
+   "en": "The VinFast VF 8 is a 5-seat SUV from VinFast, a great choice for city trips around TP.HCM and weekend getaways."
+  }
+ },
+ {
+  "id": 22,
+  "name": "VinFast VF e34",
+  "brand": "VinFast",
+  "type": "SUV",
+  "seats": 5,
+  "transmission": "AT",
+  "fuel": "electric",
+  "pricePerDay": 1000000,
+  "city": "Đà Nẵng",
+  "rating": 4.6,
+  "color": "#166534",
+  "desc": {
+   "vi": "VinFast VF e34 là mẫu xe SUV 5 chỗ của VinFast, phù hợp cho các chuyến đi tại Đà Nẵng và đi tỉnh cùng gia đình, bạn bè.",
+   "en": "The VinFast VF e34 is a 5-seat SUV from VinFast, a great choice for city trips around Đà Nẵng and weekend getaways."
+  }
+ },
+ {
+  "id": 23,
+  "name": "Mercedes C200",
+  "brand": "Mercedes",
+  "type": "Sedan",
+  "seats": 5,
+  "transmission": "AT",
+  "fuel": "petrol",
+  "pricePerDay": 2500000,
+  "city": "TP.HCM",
+  "rating": 4.9,
+  "color": "#115e59",
+  "desc": {
+   "vi": "Mercedes C200 là mẫu xe sedan 5 chỗ của Mercedes, phù hợp cho các chuyến đi tại TP.HCM và đi tỉnh cùng gia đình, bạn bè.",
+   "en": "The Mercedes C200 is a 5-seat Sedan from Mercedes, a great choice for city trips around TP.HCM and weekend getaways."
+  }
+ },
+ {
+  "id": 24,
+  "name": "Mitsubishi Triton",
+  "brand": "Mitsubishi",
+  "type": "Pickup",
+  "seats": 5,
+  "transmission": "MT",
+  "fuel": "diesel",
+  "pricePerDay": 1000000,
+  "city": "Cần Thơ",
+  "rating": 4.4,
+  "color": "#059669",
+  "desc": {
+   "vi": "Mitsubishi Triton là mẫu xe bán tải 5 chỗ của Mitsubishi, phù hợp cho các chuyến đi tại Cần Thơ và đi tỉnh cùng gia đình, bạn bè.",
+   "en": "The Mitsubishi Triton is a 5-seat Pickup from Mitsubishi, a great choice for city trips around Cần Thơ and weekend getaways."
+  }
+ }
+]
